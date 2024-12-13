@@ -1,0 +1,2276 @@
+{
+  "Banners": [
+    {
+      "age": "+13",
+      "genre": "War Action Adventure",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/wide.jpg?alt=media&token=bbb9bca1-b66d-4e61-8594-ff1e3b5624c9",
+      "name": "1917",
+      "time": "2 Hour",
+      "year": "2023"
+    },
+    {
+      "age": "15+",
+      "genre": "Adventure",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/wide1.jpg?alt=media&token=523f9a13-81a0-4d6a-968f-5c1f7025420a",
+      "name": "Avengers",
+      "time": "2 Hour",
+      "year": "2023"
+    },
+    {
+      "age": "17+",
+      "genre": "History Thriller Drama",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/wide3.jpg?alt=media&token=0f0426ae-829f-4977-9543-ed9da11d96b4",
+      "name": "Openheimer",
+      "time": "3 Hour",
+      "year": "2023"
+    }
+  ],
+  "Items": [
+    {
+      "Casts": [
+        {
+          "Actor": "Sofia Boutella",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sofia-Boutella.png?alt=media&token=5228f685-402e-427d-806c-ba232fc8105e"
+        },
+        {
+          "Actor": "Ed Skrein",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Ed-Skrein.png?alt=media&token=10ca5ad3-df69-4659-b93b-ac51d210e9cc"
+        },
+        {
+          "Actor": "Michiel Huisman",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Michiel-Huisman.png?alt=media&token=4af024cc-bcaf-4e29-9419-92329a0ace57"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "A young woman with a mysterious past is tasked with uniting different tribes to fight against an oppressive warlord who threatens their peaceful colony.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "Imdb": 9,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/aqKtSJdsUYNhEYfV42AYpamhEle.jpg?alt=media&token=91799666-41bd-4640-8470-07b3147da3b7",
+      "Time": "2h 22m",
+      "Title": "Rebel Moon",
+      "Trailer": "https://theanh2301.github.io/C_C--/Rebel%20Moon%20%20Part%20Two-%20The%20Scargiver%20-%20Official%20Trailer%20-%20Netflix.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sydney Sweeney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sydney-Sweeney.png?alt=media&token=c8cecc39-ffbb-4893-9993-182c8078055a"
+        },
+        {
+          "Actor": " lvaro Morte",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Alvaro-Morte.png?alt=media&token=23a796f0-ad84-4332-83f3-2282eb9ee1bb"
+        },
+        {
+          "Actor": "Simona Tabasco",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Simona-Tabasco.png?alt=media&token=2817ec96-323e-4b69-a129-cfbc121159e3"
+        },
+        {
+          "Actor": "Benedetta Porcaroli",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Benedetta-Porcaroli.png?alt=media&token=e1038e80-48ce-43af-9346-d3073cca74df"
+        }
+      ],
+      "Description": "A young woman who possesses the ability to heal others must fight to protect her gift from those who would exploit it.",
+      "Genre": [
+        "Drama",
+        "Fantasy"
+      ],
+      "Imdb": 8.3,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg?alt=media&token=d669f273-9633-4cb5-b416-e0f79a610ea7",
+      "Time": "1h 36m",
+      "Title": "Immaculate",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/IMMACULATE%20%20Official%20Redband%20Trailer%20%20In%20Theaters%20March%2022.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rebecca Hall",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Rebecca-Hall.png?alt=media&token=fff9a405-c20c-4704-855f-d40e4cb75ecd"
+        },
+        {
+          "Actor": "Brian Tyree Henry",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Brian-Tyree-Henry.png?alt=media&token=2dc8ae1d-cce1-4106-8cc6-5ea2a98998eb"
+        },
+        {
+          "Actor": "Dan Stevens",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Dan-Stevens.png?alt=media&token=da50ebb6-4d3e-4e78-918e-0094cb8279d2"
+        },
+        {
+          "Actor": "Kaylee Hottle",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Kaylee-Hottle.png?alt=media&token=ea367e94-8d40-4df3-9274-03e69c1df736"
+        }
+      ],
+      "Description": "Godzilla and Kong must team up to battle a common enemy that threatens to destroy both of their worlds.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Imdb": 8.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg?alt=media&token=734fca39-eff1-4cb1-93be-308b6187c2b3",
+      "Time": "1h 56m",
+      "Title": "Godzilla-Kong",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Godzilla%20x%20Kong%20The%20New%20Empire%20%20Official%20Trailer%202.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Colm Meaney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Colm-Meaney.png?alt=media&token=2650c663-7b88-47e1-941f-f0e9103ef60b"
+        },
+        {
+          "Actor": "Will Attenborough",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Will-Attenborough.png?alt=media&token=0cf07591-e278-4584-979a-02c1a408ec1a"
+        },
+        {
+          "Actor": "Jeremias Amoore",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jeremias-Amoore.png?alt=media&token=4bca63fb-2558-4016-a798-52cf2f25b003"
+        },
+        {
+          "Actor": "Sophie McIntosh",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sophie-McIntosh.png?alt=media&token=ca25c8be-b0e0-447a-93fc-e459abe33990"
+        }
+      ],
+      "Description": "A group of strangers trapped in an elevator must find a way to escape before they run out of air.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg?alt=media&token=32f2c83f-de98-4e6e-a5cc-81d33d5323e0",
+      "Time": "1h 38m",
+      "Title": "No Way Up",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/NO%20WAY%20UP%20Official%20Trailer%202024_360P.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jack-Black.png?alt=media&token=5d8b70cf-1e8e-4423-8028-03dd19277c64"
+        },
+        {
+          "Actor": "Awkwafina",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Awkwafina.png?alt=media&token=79dff5eb-ecf4-4cbb-939f-98901aa504fa"
+        },
+        {
+          "Actor": "Viola Davis",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Viola-Davis.png?alt=media&token=af35c531-e268-426d-bd70-89cdf6002450"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "Po and the Furious Five must once again defend the Jade Palace from a new threat.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg?alt=media&token=e2eeb516-64dd-4f7d-8bc6-268f85be28ec",
+      "Time": "1h 42m",
+      "Title": "Kung Fu Panda 4",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/KUNG%20FU%20PANDA%204%20%20Official%20Trailer.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Fran ois Civil",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Fran%C3%A7ois-Civil.png?alt=media&token=940f3c2c-4a7a-488a-b7e3-d580f2fc4266"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Romain Duris",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Romain-Duris.png?alt=media&token=50aade39-e5cb-477f-b9e2-63772cdce96b"
+        },
+        {
+          "Actor": "Pio Marma ",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Pio-Marma%C3%AF.png?alt=media&token=ed5926d4-9466-451c-bb66-5d839405febb"
+        }
+      ],
+      "Description": "A young man named D'Artagnan travels to Paris to become a musketeer and joins forces with Athos, Porthos, and Aramis to stop a plot to overthrow the king.",
+      "Genre": [
+        "Action",
+        "Adventure"
+      ],
+      "Imdb": 8.2,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/rtosxP5sXuoRFPH4sVbMccLIPiV.jpg?alt=media&token=f93e0560-0869-4fef-a258-adcf0b1cc6f5",
+      "Time": "2h 7m",
+      "Title": "The Three Musketeers",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Les%20Trois%20Mousquetaires%20%20%20Milady%20%20Teaser%20officiel%204K.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Samuel L. Jackson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Samuel-L.-Jackson.png?alt=media&token=d0ac6db1-21e8-463d-a563-b8d66de8da46"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Gianni Capaldi",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Gianni-Capaldi.png?alt=media&token=3d8b9882-c4c5-4526-be4e-db26dc2a65fe"
+        },
+        {
+          "Actor": "Laura Haddock",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Laura-Haddock.png?alt=media&token=8df65136-003d-48bf-99de-58ef7f745696"
+        }
+      ],
+      "Description": "A war veteran struggling with PTSD seeks revenge on the people who killed his family.",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 8.6,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg?alt=media&token=71387566-ab09-4901-9fd2-117b9b567488",
+      "Time": "1h 54m",
+      "Title": "Damaged",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Damaged%202024%20Official%20Trailer%20%20Samuel%20L%20Jackson%20Vincent%20Cassel.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Minami Takayama",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Minami%20Takayama.jpg"
+        },
+        {
+          "Actor": "Wakana Yamazaki",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Wakana%20Yamazaki.jpg"
+        },
+        {
+          "Actor": "Rikiya Koyama",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rikiya%20Koyama.jpg"
+        },
+        {
+          "Actor": "Kappei Yamaguchi",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Kappei%20Yamaguchi.jpg"
+        }
+      ],
+      "Description": "The story revolves around a treasure hunt involving the Onoe Zaibatsu, with the mystery tied to a Japanese sword connected to Toshizo Hijikata of the Shinsengumi. The Kaito Kid targets the sword while Conan and Heiji investigate amidst a kendo tournament in Hokkaido\u200B",
+      "Genre": [
+        "Adventure",
+        "Mystery"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/conan-poster.jpg",
+      "Time": "1h 52m",
+      "Title": "Conan: The Million-Dollar Pentagram",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/conan.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Tom Hardy",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tom%20Hardy.jpg"
+        },
+        {
+          "Actor": "Chiwetel Ejiofor",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chiwetel%20Ejiofor.jpg"
+        },
+        {
+          "Actor": "Juno Temple",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Juno%20Temple.jpg"
+        },
+        {
+          "Actor": "Rhys Ifans",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rhys%20Ifans.jpg"
+        }
+      ],
+      "Description": "The final chapter of the Venom trilogy follows Eddie Brock and Venom on the run as they are hunted by forces from both Earth and beyond. The duo faces a devastating decision that will shape the fate of their partnership and the universe itself.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Superhero"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/venom-poster.jpg",
+      "Time": "2h",
+      "Title": "Venom: The Last Dance",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Venom.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Wasabi Mizuta",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Wasabi%20Mizuta.jpg"
+        },
+        {
+          "Actor": "Megumi Oohara",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Megumi%20Oohara.jpg"
+        },
+        {
+          "Actor": "Yumi Kakazu",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yumi%20Kakazu.jpg"
+        },
+        {
+          "Actor": "Subaru Kimura",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Subaru%20Kimura.jpg"
+        }
+      ],
+      "Description": "In this 43rd Doraemon movie, Nobita and his friends embark on an adventure to save the world through the power of music. The plot centers around an extraterrestrial crisis, with the group striving to restore harmony and defeat the noise causing chaos.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Superhero"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/doraemon-poster%20.jpg",
+      "Time": "1h 55m",
+      "Title": " Doraemon: Nobita's Earth Symphony",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Doraemon-Movie-43.mp4",
+      "Year": 2024
+    }
+  ],
+  "Upcomming": [
+    {
+      "Casts": [
+        {
+          "Actor": "Fran ois Civil",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Fran%C3%A7ois-Civil.png?alt=media&token=940f3c2c-4a7a-488a-b7e3-d580f2fc4266"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Romain Duris",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Romain-Duris.png?alt=media&token=50aade39-e5cb-477f-b9e2-63772cdce96b"
+        },
+        {
+          "Actor": "Pio Marma ",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Pio-Marma%C3%AF.png?alt=media&token=ed5926d4-9466-451c-bb66-5d839405febb"
+        }
+      ],
+      "Description": "A young man named D'Artagnan travels to Paris to become a musketeer and joins forces with Athos, Porthos, and Aramis to stop a plot to overthrow the king.",
+      "Genre": [
+        "Action",
+        "Adventure"
+      ],
+      "Imdb": 8.2,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/rtosxP5sXuoRFPH4sVbMccLIPiV.jpg?alt=media&token=f93e0560-0869-4fef-a258-adcf0b1cc6f5",
+      "Time": "2h 7m",
+      "Title": "The Three Musketeers",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Les%20Trois%20Mousquetaires%20%20%20Milady%20%20Teaser%20officiel%204K.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Samuel L. Jackson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Samuel-L.-Jackson.png?alt=media&token=d0ac6db1-21e8-463d-a563-b8d66de8da46"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Gianni Capaldi",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Gianni-Capaldi.png?alt=media&token=3d8b9882-c4c5-4526-be4e-db26dc2a65fe"
+        },
+        {
+          "Actor": "Laura Haddock",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Laura-Haddock.png?alt=media&token=8df65136-003d-48bf-99de-58ef7f745696"
+        }
+      ],
+      "Description": "A war veteran struggling with PTSD seeks revenge on the people who killed his family.",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 8.6,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg?alt=media&token=71387566-ab09-4901-9fd2-117b9b567488",
+      "Time": "1h 54m",
+      "Title": "Damaged",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Damaged%202024%20Official%20Trailer%20%20Samuel%20L%20Jackson%20Vincent%20Cassel.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sofia Boutella",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sofia-Boutella.png?alt=media&token=5228f685-402e-427d-806c-ba232fc8105e"
+        },
+        {
+          "Actor": "Ed Skrein",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Ed-Skrein.png?alt=media&token=10ca5ad3-df69-4659-b93b-ac51d210e9cc"
+        },
+        {
+          "Actor": "Michiel Huisman",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Michiel-Huisman.png?alt=media&token=4af024cc-bcaf-4e29-9419-92329a0ace57"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "A young woman with a mysterious past is tasked with uniting different tribes to fight against an oppressive warlord who threatens their peaceful colony.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "Imdb": 9,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/aqKtSJdsUYNhEYfV42AYpamhEle.jpg?alt=media&token=91799666-41bd-4640-8470-07b3147da3b7",
+      "Time": "2h 22m",
+      "Title": "Rebel Moon",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Rebel%20Moon%20%20Part%20Two-%20The%20Scargiver%20-%20Official%20Trailer%20-%20Netflix.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sydney Sweeney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sydney-Sweeney.png?alt=media&token=c8cecc39-ffbb-4893-9993-182c8078055a"
+        },
+        {
+          "Actor": " lvaro Morte",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Alvaro-Morte.png?alt=media&token=23a796f0-ad84-4332-83f3-2282eb9ee1bb"
+        },
+        {
+          "Actor": "Simona Tabasco",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Simona-Tabasco.png?alt=media&token=2817ec96-323e-4b69-a129-cfbc121159e3"
+        },
+        {
+          "Actor": "Benedetta Porcaroli",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Benedetta-Porcaroli.png?alt=media&token=e1038e80-48ce-43af-9346-d3073cca74df"
+        }
+      ],
+      "Description": "A young woman who possesses the ability to heal others must fight to protect her gift from those who would exploit it.",
+      "Genre": [
+        "Drama",
+        "Fantasy"
+      ],
+      "Imdb": 8.3,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg?alt=media&token=d669f273-9633-4cb5-b416-e0f79a610ea7",
+      "Time": "1h 36m",
+      "Title": "Immaculate",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/IMMACULATE%20%20Official%20Redband%20Trailer%20%20In%20Theaters%20March%2022.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rebecca Hall",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Rebecca-Hall.png?alt=media&token=fff9a405-c20c-4704-855f-d40e4cb75ecd"
+        },
+        {
+          "Actor": "Brian Tyree Henry",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Brian-Tyree-Henry.png?alt=media&token=2dc8ae1d-cce1-4106-8cc6-5ea2a98998eb"
+        },
+        {
+          "Actor": "Dan Stevens",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Dan-Stevens.png?alt=media&token=da50ebb6-4d3e-4e78-918e-0094cb8279d2"
+        },
+        {
+          "Actor": "Kaylee Hottle",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Kaylee-Hottle.png?alt=media&token=ea367e94-8d40-4df3-9274-03e69c1df736"
+        }
+      ],
+      "Description": "Godzilla and Kong must team up to battle a common enemy that threatens to destroy both of their worlds.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Imdb": 8.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg?alt=media&token=734fca39-eff1-4cb1-93be-308b6187c2b3",
+      "Time": "1h 56m",
+      "Title": "Godzilla-Kong",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Godzilla%20x%20Kong%20The%20New%20Empire%20%20Official%20Trailer%202.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Colm Meaney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Colm-Meaney.png?alt=media&token=2650c663-7b88-47e1-941f-f0e9103ef60b"
+        },
+        {
+          "Actor": "Will Attenborough",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Will-Attenborough.png?alt=media&token=0cf07591-e278-4584-979a-02c1a408ec1a"
+        },
+        {
+          "Actor": "Jeremias Amoore",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jeremias-Amoore.png?alt=media&token=4bca63fb-2558-4016-a798-52cf2f25b003"
+        },
+        {
+          "Actor": "Sophie McIntosh",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sophie-McIntosh.png?alt=media&token=ca25c8be-b0e0-447a-93fc-e459abe33990"
+        }
+      ],
+      "Description": "A group of strangers trapped in an elevator must find a way to escape before they run out of air.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg?alt=media&token=32f2c83f-de98-4e6e-a5cc-81d33d5323e0",
+      "Time": "1h 38m",
+      "Title": "No Way Up",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/NO%20WAY%20UP%20Official%20Trailer%202024_360P.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jack-Black.png?alt=media&token=5d8b70cf-1e8e-4423-8028-03dd19277c64"
+        },
+        {
+          "Actor": "Awkwafina",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Awkwafina.png?alt=media&token=79dff5eb-ecf4-4cbb-939f-98901aa504fa"
+        },
+        {
+          "Actor": "Viola Davis",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Viola-Davis.png?alt=media&token=af35c531-e268-426d-bd70-89cdf6002450"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "Po and the Furious Five must once again defend the Jade Palace from a new threat.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg?alt=media&token=e2eeb516-64dd-4f7d-8bc6-268f85be28ec",
+      "Time": "1h 42m",
+      "Title": "Kung Fu Panda 4",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/KUNG%20FU%20PANDA%204%20%20Official%20Trailer.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Cillian Murphy",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Cillian%20Murphy.jpg"
+        },
+        {
+          "Actor": "Emily Blunt",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Emily%20Blunt.jpg"
+        },
+        {
+          "Actor": "Robert Downey Jr.",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Robert%20Downey%20Jr..jpg"
+        },
+        {
+          "Actor": "Matt Damon",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Matt%20Damon.jpg"
+        },
+        {
+          "Actor": "Florence Pugh",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Florence%20Pugh.jpg"
+        },
+        {
+          "Actor": "Rami Malek",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rami%20Malek.jpg"
+        }
+      ],
+      "Description": "The movie focuses on the brilliant physicist J. Robert Oppenheimer, who led the Manhattan Project during World War II to develop the first atomic bomb. However, he becomes deeply troubled by the moral consequences of his invention for the rest of his life",
+      "Genre": [
+        "Drama",
+        "Biography",
+        "History"
+      ],
+      "Imdb": 7.9,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Oppenheimer-Poster.jpg",
+      "Time": "3h",
+      "Title": "Oppenheimer",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Oppenheimer.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Robert Downey Jr.",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Robert%20Downey%20Jr..jpg"
+        },
+        {
+          "Actor": "Chris Evans",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chris%20Evans.jpg"
+        },
+        {
+          "Actor": "Mark Ruffalo",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Mark%20Ruffalo.jpg"
+        },
+        {
+          "Actor": "Chris Hemsworth",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chris%20Hemsworth.jpg"
+        }
+      ],
+      "Description": "Avengers: Endgame is the epic conclusion to the Infinity Saga in the Marvel Cinematic Universe. The surviving Avengers and their allies band together to reverse the catastrophic events caused by Thanos, culminating in a final showdown to restore balance to the universe.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Superhero",
+        "Drama"
+      ],
+      "Imdb": 8.4,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Endgame-poster.jpg",
+      "Time": "3h 1m",
+      "Title": " Avengers: Endgame",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Marvel.mp4",
+      "Year": 2019
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Hrithik Roshan",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Hrithik%20Roshan.jpg"
+        },
+        {
+          "Actor": "Tiger Shroff",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tiger%20Shroff.jpg"
+        },
+        {
+          "Actor": "Vaani Kapoor",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Vaani%20Kapoor.jpg"
+        },
+        {
+          "Actor": "Ashutosh Rana",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ashutosh%20Rana.jpg"
+        },
+        {
+          "Actor": "Anupriya Goenka",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Anupriya%20Goenka.jpg"
+        }
+      ],
+      "Description": "This action-packed thriller revolves around an Indian intelligence officer tasked with hunting down his former mentor, a rogue spy, leading to a series of twists, intense battles, and emotional conflicts",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 6.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/war-poster.jpg",
+      "Time": "1h 24m",
+      "Title": "WAR",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/WAR.mp4",
+      "Year": 2019
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Cailee Spaeny",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Cailee%20Spaeny.jpg"
+        },
+        {
+          "Actor": "David Jonsson",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Cailee%20Spaeny.jpg"
+        },
+        {
+          "Actor": "Archie Renaux",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Archie%20Renaux.jpg"
+        },
+        {
+          "Actor": "Isabela Merced",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Isabela%20Merced.jpg"
+        }
+      ],
+      "Description": "Alien is a science fiction-horror film directed by Ridley Scott. The story follows the crew of the commercial spaceship Nostromo, who investigate a distress signal from an uncharted planetoid. They encounter a deadly alien creature that begins to hunt them, leading to a fight for survival in the depths of space.\n\n",
+      "Genre": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "Imdb": 8.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Alien-poster.jpg",
+      "Time": "1h 56m",
+      "Title": "Alien: Romulus",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Alien-Romulus.mp4",
+      "Year": 2024
+    }
+  ],
+  "NewMovie":  [
+    {
+      "Casts": [
+        {
+          "Actor": "Cillian Murphy",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Cillian%20Murphy.jpg"
+        },
+        {
+          "Actor": "Emily Blunt",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Emily%20Blunt.jpg"
+        },
+        {
+          "Actor": "Robert Downey Jr.",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Robert%20Downey%20Jr..jpg"
+        },
+        {
+          "Actor": "Matt Damon",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Matt%20Damon.jpg"
+        },
+        {
+          "Actor": "Florence Pugh",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Florence%20Pugh.jpg"
+        },
+        {
+          "Actor": "Rami Malek",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rami%20Malek.jpg"
+        }
+      ],
+      "Description": "The movie focuses on the brilliant physicist J. Robert Oppenheimer, who led the Manhattan Project during World War II to develop the first atomic bomb. However, he becomes deeply troubled by the moral consequences of his invention for the rest of his life",
+      "Genre": [
+        "Drama",
+        "Biography",
+        "History"
+      ],
+      "Imdb": 7.9,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Oppenheimer-Poster.jpg",
+      "Time": "3h",
+      "Title": "Oppenheimer",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Oppenheimer.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Robert Downey Jr.",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Robert%20Downey%20Jr..jpg"
+        },
+        {
+          "Actor": "Chris Evans",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chris%20Evans.jpg"
+        },
+        {
+          "Actor": "Mark Ruffalo",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Mark%20Ruffalo.jpg"
+        },
+        {
+          "Actor": "Chris Hemsworth",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chris%20Hemsworth.jpg"
+        }
+      ],
+      "Description": "Avengers: Endgame is the epic conclusion to the Infinity Saga in the Marvel Cinematic Universe. The surviving Avengers and their allies band together to reverse the catastrophic events caused by Thanos, culminating in a final showdown to restore balance to the universe.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Superhero",
+        "Drama"
+      ],
+      "Imdb": 8.4,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Endgame-poster.jpg",
+      "Time": "3h 1m",
+      "Title": " Avengers: Endgame",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Marvel.mp4",
+      "Year": 2019
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Hrithik Roshan",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Hrithik%20Roshan.jpg"
+        },
+        {
+          "Actor": "Tiger Shroff",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tiger%20Shroff.jpg"
+        },
+        {
+          "Actor": "Vaani Kapoor",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Vaani%20Kapoor.jpg"
+        },
+        {
+          "Actor": "Ashutosh Rana",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ashutosh%20Rana.jpg"
+        },
+        {
+          "Actor": "Anupriya Goenka",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Anupriya%20Goenka.jpg"
+        }
+      ],
+      "Description": "This action-packed thriller revolves around an Indian intelligence officer tasked with hunting down his former mentor, a rogue spy, leading to a series of twists, intense battles, and emotional conflicts",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 6.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/war-poster.jpg",
+      "Time": "1h 24m",
+      "Title": "WAR",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/WAR.mp4",
+      "Year": 2019
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Cailee Spaeny",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Cailee%20Spaeny.jpg"
+        },
+        {
+          "Actor": "David Jonsson",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Cailee%20Spaeny.jpg"
+        },
+        {
+          "Actor": "Archie Renaux",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Archie%20Renaux.jpg"
+        },
+        {
+          "Actor": "Isabela Merced",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Isabela%20Merced.jpg"
+        }
+      ],
+      "Description": "Alien is a science fiction-horror film directed by Ridley Scott. The story follows the crew of the commercial spaceship Nostromo, who investigate a distress signal from an uncharted planetoid. They encounter a deadly alien creature that begins to hunt them, leading to a fight for survival in the depths of space.\n\n",
+      "Genre": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "Imdb": 8.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Alien-poster.jpg",
+      "Time": "1h 56m",
+      "Title": "Alien: Romulus",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Alien-Romulus.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Samuel L. Jackson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Samuel-L.-Jackson.png?alt=media&token=d0ac6db1-21e8-463d-a563-b8d66de8da46"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Gianni Capaldi",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Gianni-Capaldi.png?alt=media&token=3d8b9882-c4c5-4526-be4e-db26dc2a65fe"
+        },
+        {
+          "Actor": "Laura Haddock",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Laura-Haddock.png?alt=media&token=8df65136-003d-48bf-99de-58ef7f745696"
+        }
+      ],
+      "Description": "A war veteran struggling with PTSD seeks revenge on the people who killed his family.",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 8.6,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg?alt=media&token=71387566-ab09-4901-9fd2-117b9b567488",
+      "Time": "1h 54m",
+      "Title": "Damaged",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Damaged%202024%20Official%20Trailer%20%20Samuel%20L%20Jackson%20Vincent%20Cassel.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Minami Takayama",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Minami%20Takayama.jpg"
+        },
+        {
+          "Actor": "Wakana Yamazaki",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Wakana%20Yamazaki.jpg"
+        },
+        {
+          "Actor": "Rikiya Koyama",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rikiya%20Koyama.jpg"
+        },
+        {
+          "Actor": "Kappei Yamaguchi",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Kappei%20Yamaguchi.jpg"
+        }
+      ],
+      "Description": "The story revolves around a treasure hunt involving the Onoe Zaibatsu, with the mystery tied to a Japanese sword connected to Toshizo Hijikata of the Shinsengumi. The Kaito Kid targets the sword while Conan and Heiji investigate amidst a kendo tournament in Hokkaido\u200B",
+      "Genre": [
+        "Adventure",
+        "Mystery"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/conan-poster.jpg",
+      "Time": "1h 52m",
+      "Title": "Conan: The Million-Dollar Pentagram",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/conan.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Tom Hardy",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tom%20Hardy.jpg"
+        },
+        {
+          "Actor": "Chiwetel Ejiofor",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chiwetel%20Ejiofor.jpg"
+        },
+        {
+          "Actor": "Juno Temple",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Juno%20Temple.jpg"
+        },
+        {
+          "Actor": "Rhys Ifans",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rhys%20Ifans.jpg"
+        }
+      ],
+      "Description": "The final chapter of the Venom trilogy follows Eddie Brock and Venom on the run as they are hunted by forces from both Earth and beyond. The duo faces a devastating decision that will shape the fate of their partnership and the universe itself.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Superhero"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/venom-poster.jpg",
+      "Time": "2h",
+      "Title": "Venom: The Last Dance",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Venom.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Wasabi Mizuta",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Wasabi%20Mizuta.jpg"
+        },
+        {
+          "Actor": "Megumi Oohara",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Megumi%20Oohara.jpg"
+        },
+        {
+          "Actor": "Yumi Kakazu",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yumi%20Kakazu.jpg"
+        },
+        {
+          "Actor": "Subaru Kimura",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Subaru%20Kimura.jpg"
+        }
+      ],
+      "Description": "In this 43rd Doraemon movie, Nobita and his friends embark on an adventure to save the world through the power of music. The plot centers around an extraterrestrial crisis, with the group striving to restore harmony and defeat the noise causing chaos.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Superhero"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/doraemon-poster%20.jpg",
+      "Time": "1h 55m",
+      "Title": " Doraemon: Nobita's Earth Symphony",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Doraemon-Movie-43.mp4",
+      "Year": 2024
+    }
+  ],
+  "Movie": [
+    {
+      "Casts": [
+        {
+          "Actor": "Samuel L. Jackson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Samuel-L.-Jackson.png?alt=media&token=d0ac6db1-21e8-463d-a563-b8d66de8da46"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Gianni Capaldi",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Gianni-Capaldi.png?alt=media&token=3d8b9882-c4c5-4526-be4e-db26dc2a65fe"
+        },
+        {
+          "Actor": "Laura Haddock",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Laura-Haddock.png?alt=media&token=8df65136-003d-48bf-99de-58ef7f745696"
+        }
+      ],
+      "Description": "A war veteran struggling with PTSD seeks revenge on the people who killed his family.",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 8.6,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg?alt=media&token=71387566-ab09-4901-9fd2-117b9b567488",
+      "Time": "1h 54m",
+      "Title": "Damaged",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Damaged%202024%20Official%20Trailer%20%20Samuel%20L%20Jackson%20Vincent%20Cassel.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Minami Takayama",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Minami%20Takayama.jpg"
+        },
+        {
+          "Actor": "Wakana Yamazaki",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Wakana%20Yamazaki.jpg"
+        },
+        {
+          "Actor": "Rikiya Koyama",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rikiya%20Koyama.jpg"
+        },
+        {
+          "Actor": "Kappei Yamaguchi",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Kappei%20Yamaguchi.jpg"
+        }
+      ],
+      "Description": "The story revolves around a treasure hunt involving the Onoe Zaibatsu, with the mystery tied to a Japanese sword connected to Toshizo Hijikata of the Shinsengumi. The Kaito Kid targets the sword while Conan and Heiji investigate amidst a kendo tournament in Hokkaido\u200B",
+      "Genre": [
+        "Adventure",
+        "Mystery"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/conan-poster.jpg",
+      "Time": "1h 52m",
+      "Title": "Conan: The Million-Dollar Pentagram",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/conan.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Tom Hardy",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tom%20Hardy.jpg"
+        },
+        {
+          "Actor": "Chiwetel Ejiofor",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chiwetel%20Ejiofor.jpg"
+        },
+        {
+          "Actor": "Juno Temple",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Juno%20Temple.jpg"
+        },
+        {
+          "Actor": "Rhys Ifans",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rhys%20Ifans.jpg"
+        }
+      ],
+      "Description": "The final chapter of the Venom trilogy follows Eddie Brock and Venom on the run as they are hunted by forces from both Earth and beyond. The duo faces a devastating decision that will shape the fate of their partnership and the universe itself.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Superhero"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/venom-poster.jpg",
+      "Time": "2h",
+      "Title": "Venom: The Last Dance",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Venom.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Wasabi Mizuta",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Wasabi%20Mizuta.jpg"
+        },
+        {
+          "Actor": "Megumi Oohara",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Megumi%20Oohara.jpg"
+        },
+        {
+          "Actor": "Yumi Kakazu",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yumi%20Kakazu.jpg"
+        },
+        {
+          "Actor": "Subaru Kimura",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Subaru%20Kimura.jpg"
+        }
+      ],
+      "Description": "In this 43rd Doraemon movie, Nobita and his friends embark on an adventure to save the world through the power of music. The plot centers around an extraterrestrial crisis, with the group striving to restore harmony and defeat the noise causing chaos.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Superhero"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/doraemon-poster%20.jpg",
+      "Time": "1h 55m",
+      "Title": " Doraemon: Nobita's Earth Symphony",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Doraemon-Movie-43.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Fran ois Civil",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Fran%C3%A7ois-Civil.png?alt=media&token=940f3c2c-4a7a-488a-b7e3-d580f2fc4266"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Romain Duris",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Romain-Duris.png?alt=media&token=50aade39-e5cb-477f-b9e2-63772cdce96b"
+        },
+        {
+          "Actor": "Pio Marma ",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Pio-Marma%C3%AF.png?alt=media&token=ed5926d4-9466-451c-bb66-5d839405febb"
+        }
+      ],
+      "Description": "A young man named D'Artagnan travels to Paris to become a musketeer and joins forces with Athos, Porthos, and Aramis to stop a plot to overthrow the king.",
+      "Genre": [
+        "Action",
+        "Adventure"
+      ],
+      "Imdb": 8.2,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/rtosxP5sXuoRFPH4sVbMccLIPiV.jpg?alt=media&token=f93e0560-0869-4fef-a258-adcf0b1cc6f5",
+      "Time": "2h 7m",
+      "Title": "The Three Musketeers",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Les%20Trois%20Mousquetaires%20%20%20Milady%20%20Teaser%20officiel%204K.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Samuel L. Jackson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Samuel-L.-Jackson.png?alt=media&token=d0ac6db1-21e8-463d-a563-b8d66de8da46"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Gianni Capaldi",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Gianni-Capaldi.png?alt=media&token=3d8b9882-c4c5-4526-be4e-db26dc2a65fe"
+        },
+        {
+          "Actor": "Laura Haddock",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Laura-Haddock.png?alt=media&token=8df65136-003d-48bf-99de-58ef7f745696"
+        }
+      ],
+      "Description": "A war veteran struggling with PTSD seeks revenge on the people who killed his family.",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 8.6,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg?alt=media&token=71387566-ab09-4901-9fd2-117b9b567488",
+      "Time": "1h 54m",
+      "Title": "Damaged",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Damaged%202024%20Official%20Trailer%20%20Samuel%20L%20Jackson%20Vincent%20Cassel.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sofia Boutella",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sofia-Boutella.png?alt=media&token=5228f685-402e-427d-806c-ba232fc8105e"
+        },
+        {
+          "Actor": "Ed Skrein",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Ed-Skrein.png?alt=media&token=10ca5ad3-df69-4659-b93b-ac51d210e9cc"
+        },
+        {
+          "Actor": "Michiel Huisman",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Michiel-Huisman.png?alt=media&token=4af024cc-bcaf-4e29-9419-92329a0ace57"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "A young woman with a mysterious past is tasked with uniting different tribes to fight against an oppressive warlord who threatens their peaceful colony.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "Imdb": 9,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/aqKtSJdsUYNhEYfV42AYpamhEle.jpg?alt=media&token=91799666-41bd-4640-8470-07b3147da3b7",
+      "Time": "2h 22m",
+      "Title": "Rebel Moon",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Rebel%20Moon%20%20Part%20Two-%20The%20Scargiver%20-%20Official%20Trailer%20-%20Netflix.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sydney Sweeney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sydney-Sweeney.png?alt=media&token=c8cecc39-ffbb-4893-9993-182c8078055a"
+        },
+        {
+          "Actor": " lvaro Morte",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Alvaro-Morte.png?alt=media&token=23a796f0-ad84-4332-83f3-2282eb9ee1bb"
+        },
+        {
+          "Actor": "Simona Tabasco",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Simona-Tabasco.png?alt=media&token=2817ec96-323e-4b69-a129-cfbc121159e3"
+        },
+        {
+          "Actor": "Benedetta Porcaroli",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Benedetta-Porcaroli.png?alt=media&token=e1038e80-48ce-43af-9346-d3073cca74df"
+        }
+      ],
+      "Description": "A young woman who possesses the ability to heal others must fight to protect her gift from those who would exploit it.",
+      "Genre": [
+        "Drama",
+        "Fantasy"
+      ],
+      "Imdb": 8.3,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg?alt=media&token=d669f273-9633-4cb5-b416-e0f79a610ea7",
+      "Time": "1h 36m",
+      "Title": "Immaculate",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/IMMACULATE%20%20Official%20Redband%20Trailer%20%20In%20Theaters%20March%2022.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rebecca Hall",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Rebecca-Hall.png?alt=media&token=fff9a405-c20c-4704-855f-d40e4cb75ecd"
+        },
+        {
+          "Actor": "Brian Tyree Henry",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Brian-Tyree-Henry.png?alt=media&token=2dc8ae1d-cce1-4106-8cc6-5ea2a98998eb"
+        },
+        {
+          "Actor": "Dan Stevens",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Dan-Stevens.png?alt=media&token=da50ebb6-4d3e-4e78-918e-0094cb8279d2"
+        },
+        {
+          "Actor": "Kaylee Hottle",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Kaylee-Hottle.png?alt=media&token=ea367e94-8d40-4df3-9274-03e69c1df736"
+        }
+      ],
+      "Description": "Godzilla and Kong must team up to battle a common enemy that threatens to destroy both of their worlds.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Imdb": 8.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg?alt=media&token=734fca39-eff1-4cb1-93be-308b6187c2b3",
+      "Time": "1h 56m",
+      "Title": "Godzilla-Kong",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Godzilla%20x%20Kong%20The%20New%20Empire%20%20Official%20Trailer%202.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Colm Meaney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Colm-Meaney.png?alt=media&token=2650c663-7b88-47e1-941f-f0e9103ef60b"
+        },
+        {
+          "Actor": "Will Attenborough",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Will-Attenborough.png?alt=media&token=0cf07591-e278-4584-979a-02c1a408ec1a"
+        },
+        {
+          "Actor": "Jeremias Amoore",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jeremias-Amoore.png?alt=media&token=4bca63fb-2558-4016-a798-52cf2f25b003"
+        },
+        {
+          "Actor": "Sophie McIntosh",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sophie-McIntosh.png?alt=media&token=ca25c8be-b0e0-447a-93fc-e459abe33990"
+        }
+      ],
+      "Description": "A group of strangers trapped in an elevator must find a way to escape before they run out of air.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg?alt=media&token=32f2c83f-de98-4e6e-a5cc-81d33d5323e0",
+      "Time": "1h 38m",
+      "Title": "No Way Up",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/NO%20WAY%20UP%20Official%20Trailer%202024_360P.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jack-Black.png?alt=media&token=5d8b70cf-1e8e-4423-8028-03dd19277c64"
+        },
+        {
+          "Actor": "Awkwafina",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Awkwafina.png?alt=media&token=79dff5eb-ecf4-4cbb-939f-98901aa504fa"
+        },
+        {
+          "Actor": "Viola Davis",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Viola-Davis.png?alt=media&token=af35c531-e268-426d-bd70-89cdf6002450"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "Po and the Furious Five must once again defend the Jade Palace from a new threat.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg?alt=media&token=e2eeb516-64dd-4f7d-8bc6-268f85be28ec",
+      "Time": "1h 42m",
+      "Title": "Kung Fu Panda 4",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/KUNG%20FU%20PANDA%204%20%20Official%20Trailer.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Cillian Murphy",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Cillian%20Murphy.jpg"
+        },
+        {
+          "Actor": "Emily Blunt",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Emily%20Blunt.jpg"
+        },
+        {
+          "Actor": "Robert Downey Jr.",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Robert%20Downey%20Jr..jpg"
+        },
+        {
+          "Actor": "Matt Damon",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Matt%20Damon.jpg"
+        },
+        {
+          "Actor": "Florence Pugh",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Florence%20Pugh.jpg"
+        },
+        {
+          "Actor": "Rami Malek",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rami%20Malek.jpg"
+        }
+      ],
+      "Description": "The movie focuses on the brilliant physicist J. Robert Oppenheimer, who led the Manhattan Project during World War II to develop the first atomic bomb. However, he becomes deeply troubled by the moral consequences of his invention for the rest of his life",
+      "Genre": [
+        "Drama",
+        "Biography",
+        "History"
+      ],
+      "Imdb": 7.9,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Oppenheimer-Poster.jpg",
+      "Time": "3h",
+      "Title": "Oppenheimer",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Oppenheimer.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Robert Downey Jr.",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Robert%20Downey%20Jr..jpg"
+        },
+        {
+          "Actor": "Chris Evans",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chris%20Evans.jpg"
+        },
+        {
+          "Actor": "Mark Ruffalo",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Mark%20Ruffalo.jpg"
+        },
+        {
+          "Actor": "Chris Hemsworth",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chris%20Hemsworth.jpg"
+        }
+      ],
+      "Description": "Avengers: Endgame is the epic conclusion to the Infinity Saga in the Marvel Cinematic Universe. The surviving Avengers and their allies band together to reverse the catastrophic events caused by Thanos, culminating in a final showdown to restore balance to the universe.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Superhero",
+        "Drama"
+      ],
+      "Imdb": 8.4,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Endgame-poster.jpg",
+      "Time": "3h 1m",
+      "Title": " Avengers: Endgame",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Marvel.mp4",
+      "Year": 2019
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Hrithik Roshan",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Hrithik%20Roshan.jpg"
+        },
+        {
+          "Actor": "Tiger Shroff",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tiger%20Shroff.jpg"
+        },
+        {
+          "Actor": "Vaani Kapoor",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Vaani%20Kapoor.jpg"
+        },
+        {
+          "Actor": "Ashutosh Rana",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ashutosh%20Rana.jpg"
+        },
+        {
+          "Actor": "Anupriya Goenka",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Anupriya%20Goenka.jpg"
+        }
+      ],
+      "Description": "This action-packed thriller revolves around an Indian intelligence officer tasked with hunting down his former mentor, a rogue spy, leading to a series of twists, intense battles, and emotional conflicts",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 6.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/war-poster.jpg",
+      "Time": "1h 24m",
+      "Title": "WAR",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/WAR.mp4",
+      "Year": 2019
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Cailee Spaeny",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Cailee%20Spaeny.jpg"
+        },
+        {
+          "Actor": "David Jonsson",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Cailee%20Spaeny.jpg"
+        },
+        {
+          "Actor": "Archie Renaux",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Archie%20Renaux.jpg"
+        },
+        {
+          "Actor": "Isabela Merced",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Isabela%20Merced.jpg"
+        }
+      ],
+      "Description": "Alien is a science fiction-horror film directed by Ridley Scott. The story follows the crew of the commercial spaceship Nostromo, who investigate a distress signal from an uncharted planetoid. They encounter a deadly alien creature that begins to hunt them, leading to a fight for survival in the depths of space.\n\n",
+      "Genre": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "Imdb": 8.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Alien-poster.jpg",
+      "Time": "1h 56m",
+      "Title": "Alien: Romulus",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Alien-Romulus.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sofia Boutella",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sofia-Boutella.png?alt=media&token=5228f685-402e-427d-806c-ba232fc8105e"
+        },
+        {
+          "Actor": "Ed Skrein",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Ed-Skrein.png?alt=media&token=10ca5ad3-df69-4659-b93b-ac51d210e9cc"
+        },
+        {
+          "Actor": "Michiel Huisman",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Michiel-Huisman.png?alt=media&token=4af024cc-bcaf-4e29-9419-92329a0ace57"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "A young woman with a mysterious past is tasked with uniting different tribes to fight against an oppressive warlord who threatens their peaceful colony.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "Imdb": 9,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/aqKtSJdsUYNhEYfV42AYpamhEle.jpg?alt=media&token=91799666-41bd-4640-8470-07b3147da3b7",
+      "Time": "2h 22m",
+      "Title": "Rebel Moon",
+      "Trailer": "https://theanh2301.github.io/C_C--/Rebel%20Moon%20%20Part%20Two-%20The%20Scargiver%20-%20Official%20Trailer%20-%20Netflix.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sydney Sweeney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sydney-Sweeney.png?alt=media&token=c8cecc39-ffbb-4893-9993-182c8078055a"
+        },
+        {
+          "Actor": " lvaro Morte",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Alvaro-Morte.png?alt=media&token=23a796f0-ad84-4332-83f3-2282eb9ee1bb"
+        },
+        {
+          "Actor": "Simona Tabasco",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Simona-Tabasco.png?alt=media&token=2817ec96-323e-4b69-a129-cfbc121159e3"
+        },
+        {
+          "Actor": "Benedetta Porcaroli",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Benedetta-Porcaroli.png?alt=media&token=e1038e80-48ce-43af-9346-d3073cca74df"
+        }
+      ],
+      "Description": "A young woman who possesses the ability to heal others must fight to protect her gift from those who would exploit it.",
+      "Genre": [
+        "Drama",
+        "Fantasy"
+      ],
+      "Imdb": 8.3,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg?alt=media&token=d669f273-9633-4cb5-b416-e0f79a610ea7",
+      "Time": "1h 36m",
+      "Title": "Immaculate",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/IMMACULATE%20%20Official%20Redband%20Trailer%20%20In%20Theaters%20March%2022.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rebecca Hall",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Rebecca-Hall.png?alt=media&token=fff9a405-c20c-4704-855f-d40e4cb75ecd"
+        },
+        {
+          "Actor": "Brian Tyree Henry",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Brian-Tyree-Henry.png?alt=media&token=2dc8ae1d-cce1-4106-8cc6-5ea2a98998eb"
+        },
+        {
+          "Actor": "Dan Stevens",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Dan-Stevens.png?alt=media&token=da50ebb6-4d3e-4e78-918e-0094cb8279d2"
+        },
+        {
+          "Actor": "Kaylee Hottle",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Kaylee-Hottle.png?alt=media&token=ea367e94-8d40-4df3-9274-03e69c1df736"
+        }
+      ],
+      "Description": "Godzilla and Kong must team up to battle a common enemy that threatens to destroy both of their worlds.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Imdb": 8.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg?alt=media&token=734fca39-eff1-4cb1-93be-308b6187c2b3",
+      "Time": "1h 56m",
+      "Title": "Godzilla-Kong",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Godzilla%20x%20Kong%20The%20New%20Empire%20%20Official%20Trailer%202.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Colm Meaney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Colm-Meaney.png?alt=media&token=2650c663-7b88-47e1-941f-f0e9103ef60b"
+        },
+        {
+          "Actor": "Will Attenborough",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Will-Attenborough.png?alt=media&token=0cf07591-e278-4584-979a-02c1a408ec1a"
+        },
+        {
+          "Actor": "Jeremias Amoore",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jeremias-Amoore.png?alt=media&token=4bca63fb-2558-4016-a798-52cf2f25b003"
+        },
+        {
+          "Actor": "Sophie McIntosh",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sophie-McIntosh.png?alt=media&token=ca25c8be-b0e0-447a-93fc-e459abe33990"
+        }
+      ],
+      "Description": "A group of strangers trapped in an elevator must find a way to escape before they run out of air.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg?alt=media&token=32f2c83f-de98-4e6e-a5cc-81d33d5323e0",
+      "Time": "1h 38m",
+      "Title": "No Way Up",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/NO%20WAY%20UP%20Official%20Trailer%202024_360P.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jack-Black.png?alt=media&token=5d8b70cf-1e8e-4423-8028-03dd19277c64"
+        },
+        {
+          "Actor": "Awkwafina",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Awkwafina.png?alt=media&token=79dff5eb-ecf4-4cbb-939f-98901aa504fa"
+        },
+        {
+          "Actor": "Viola Davis",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Viola-Davis.png?alt=media&token=af35c531-e268-426d-bd70-89cdf6002450"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "Po and the Furious Five must once again defend the Jade Palace from a new threat.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg?alt=media&token=e2eeb516-64dd-4f7d-8bc6-268f85be28ec",
+      "Time": "1h 42m",
+      "Title": "Kung Fu Panda 4",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/KUNG%20FU%20PANDA%204%20%20Official%20Trailer.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Fran ois Civil",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Fran%C3%A7ois-Civil.png?alt=media&token=940f3c2c-4a7a-488a-b7e3-d580f2fc4266"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Romain Duris",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Romain-Duris.png?alt=media&token=50aade39-e5cb-477f-b9e2-63772cdce96b"
+        },
+        {
+          "Actor": "Pio Marma ",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Pio-Marma%C3%AF.png?alt=media&token=ed5926d4-9466-451c-bb66-5d839405febb"
+        }
+      ],
+      "Description": "A young man named D'Artagnan travels to Paris to become a musketeer and joins forces with Athos, Porthos, and Aramis to stop a plot to overthrow the king.",
+      "Genre": [
+        "Action",
+        "Adventure"
+      ],
+      "Imdb": 8.2,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/rtosxP5sXuoRFPH4sVbMccLIPiV.jpg?alt=media&token=f93e0560-0869-4fef-a258-adcf0b1cc6f5",
+      "Time": "2h 7m",
+      "Title": "The Three Musketeers",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Les%20Trois%20Mousquetaires%20%20%20Milady%20%20Teaser%20officiel%204K.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Samuel L. Jackson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Samuel-L.-Jackson.png?alt=media&token=d0ac6db1-21e8-463d-a563-b8d66de8da46"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Gianni Capaldi",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Gianni-Capaldi.png?alt=media&token=3d8b9882-c4c5-4526-be4e-db26dc2a65fe"
+        },
+        {
+          "Actor": "Laura Haddock",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Laura-Haddock.png?alt=media&token=8df65136-003d-48bf-99de-58ef7f745696"
+        }
+      ],
+      "Description": "A war veteran struggling with PTSD seeks revenge on the people who killed his family.",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 8.6,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg?alt=media&token=71387566-ab09-4901-9fd2-117b9b567488",
+      "Time": "1h 54m",
+      "Title": "Damaged",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Damaged%202024%20Official%20Trailer%20%20Samuel%20L%20Jackson%20Vincent%20Cassel.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Minami Takayama",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Minami%20Takayama.jpg"
+        },
+        {
+          "Actor": "Wakana Yamazaki",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Wakana%20Yamazaki.jpg"
+        },
+        {
+          "Actor": "Rikiya Koyama",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rikiya%20Koyama.jpg"
+        },
+        {
+          "Actor": "Kappei Yamaguchi",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Kappei%20Yamaguchi.jpg"
+        }
+      ],
+      "Description": "The story revolves around a treasure hunt involving the Onoe Zaibatsu, with the mystery tied to a Japanese sword connected to Toshizo Hijikata of the Shinsengumi. The Kaito Kid targets the sword while Conan and Heiji investigate amidst a kendo tournament in Hokkaido\u200B",
+      "Genre": [
+        "Adventure",
+        "Mystery"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/conan-poster.jpg",
+      "Time": "1h 52m",
+      "Title": "Conan: The Million-Dollar Pentagram",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/conan.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Tom Hardy",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tom%20Hardy.jpg"
+        },
+        {
+          "Actor": "Chiwetel Ejiofor",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chiwetel%20Ejiofor.jpg"
+        },
+        {
+          "Actor": "Juno Temple",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Juno%20Temple.jpg"
+        },
+        {
+          "Actor": "Rhys Ifans",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Rhys%20Ifans.jpg"
+        }
+      ],
+      "Description": "The final chapter of the Venom trilogy follows Eddie Brock and Venom on the run as they are hunted by forces from both Earth and beyond. The duo faces a devastating decision that will shape the fate of their partnership and the universe itself.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Superhero"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/venom-poster.jpg",
+      "Time": "2h",
+      "Title": "Venom: The Last Dance",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Venom.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Wasabi Mizuta",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Wasabi%20Mizuta.jpg"
+        },
+        {
+          "Actor": "Megumi Oohara",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Megumi%20Oohara.jpg"
+        },
+        {
+          "Actor": "Yumi Kakazu",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yumi%20Kakazu.jpg"
+        },
+        {
+          "Actor": "Subaru Kimura",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Subaru%20Kimura.jpg"
+        }
+      ],
+      "Description": "In this 43rd Doraemon movie, Nobita and his friends embark on an adventure to save the world through the power of music. The plot centers around an extraterrestrial crisis, with the group striving to restore harmony and defeat the noise causing chaos.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Superhero"
+      ],
+      "Imdb": 7.5,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/doraemon-poster%20.jpg",
+      "Time": "1h 55m",
+      "Title": " Doraemon: Nobita's Earth Symphony",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Doraemon-Movie-43.mp4",
+      "Year": 2024
+    }
+  ],
+  "Anime": [
+    {
+      "Casts": [
+        {
+          "Actor": "Mayumi Tanaka",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Kazuya Nakai",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Akemi Okamura",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Shūichi Ikeda",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "The Straw Hat crew attends a concert by Uta, the world’s favorite diva and daughter of Shanks, leading to a clash of secrets and revelations.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Imdb": 7.3,
+      "Poster": "",
+      "Time": "1h 55m",
+      "Title": "One Piece",
+      "Trailer": "",
+      "Year": 2022
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Natsuki Hanae",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Akari Kitō",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Hiro Shimono",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "The epic confrontation with Muzan unfolds in the Infinity Castle",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Imdb": 10,
+      "Poster": "",
+      "Time": "2h",
+      "Title": "Demon Slayer: Infinity Castle",
+      "Trailer": "",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Takuya Eguchi",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Atsumi Tanezaki",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Saori Hayami",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "Loid takes on a new mission that involves balancing espionage and family antics",
+      "Genre": [
+        "Action",
+        "Comedy",
+        "Animation"
+      ],
+      "Imdb": 7.8,
+      "Poster": "",
+      "Time": "2h",
+      "Title": "Spy x Family: Code White.",
+      "Trailer": "",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Yuki Kaji",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Yui Ishikawa",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Marina Inoue",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "Humanity’s final stand against the Titans reaches an explosive conclusion.",
+      "Genre": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "Imdb": 9.1,
+      "Poster": "",
+      "Time": "2h",
+      "Title": "",
+      "Trailer": "Attack on Titan: The Final Season",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Megumi Ogata",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Kana Hanazawa",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Mikako Komatsu",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Yuichi Nakamura",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "The film is a prequel to the Jujutsu Kaisen anime series and follows Yuta Okkotsu, a young sorcerer burdened by a curse from his childhood friend, Rika. After a tragic event, Rika's curse is bound to Yuta, leading him to struggle with both the curse and his emotions. As Yuta trains at Jujutsu High, he faces powerful curses, including the rogue sorcerer Suguru Geto, who seeks to harness Rika's power for his own agenda.",
+      "Genre": [
+        "Animation",
+        "Action",
+        "Supernatural"
+      ],
+      "Imdb": 8.3,
+      "Poster": "",
+      "Time": "1h 45m",
+      "Title": "Jujutsu Kaisen",
+      "Trailer": "",
+      "Year": 2021
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Natsuki Hanae",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Hiro Shimono",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Yoshitsugu Matsuoka",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Akari Kitō",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "The film continues the story of the Demon Slayer Corps as the leader Kagaya Ubuyashiki lies on his deathbed. As tensions rise and Muzan's arrival nears, special training is introduced to prepare the Corps for the upcoming battle. The marks on certain Hashiras, including Muichiro and Mitsuri, play a pivotal role in this training. The movie delves into these events, with various Hashiras undertaking crucial missions",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Imdb": 8,
+      "Poster": "",
+      "Time": "1h 56m",
+      "Title": "Demon Slayer: Kimetsu no Yaiba",
+      "Trailer": "",
+      "Year": 2024
+    }
+  ],
+  "horror": [
+    {
+      "Casts": [
+        {
+          "Actor": "Hoàng Hà",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Võ Điền Gia Huy",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Huỳnh Thanh Trực",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "NSND Ngọc Thư",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "Set in a remote and eerie village, the story revolves around mysterious deaths connected to ancient magical rituals. The central character, Thập Nương, uses forbidden techniques to craft a potent liquor, leading to gruesome and supernatural events",
+      "Genre": [
+        "Horror",
+        "Supernatural"
+      ],
+      "Imdb": 5,
+      "Poster": "",
+      "Time": "1h 45m",
+      "Title": "The Soul Reaper",
+      "Trailer": "",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+        "Actor": "Nadech Kugimiya",
+        "PicUrl": ""
+        },
+        {
+        "Actor": "Denise Jelilcha Kapaun",
+        "PicUrl": ""
+        },
+        {
+        "Actor": " Mim Rattawadee Wongthong",
+        "PicUrl": ""
+        },
+        {
+        "Actor": "Junior Kajbhunditt Jaidee",
+        "PicUrl": ""
+        }
+      ],
+      "Description": "After the elder brother returns to his hometown, he must find a way to save his younger sister from a bizarre illness that is causing her to behave differently.",
+      "Genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "Imdb": 5.8,
+      "Poster": "",
+      "Time": "2h",
+      "Title": "Tee Yod",
+      "Trailer": "",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+      {
+      "Actor": "Tuấn Trần",
+      "PicUrl": ""
+      },
+      {
+      "Actor": "Diệp Bảo Ngọc",
+      "PicUrl": ""
+      },
+      {
+      "Actor": "NSƯT Hoài Linh",
+      "PicUrl": ""
+      },
+      {
+      "Actor": "NSƯT Hữu Châu",
+      "PicUrl": ""
+      }
+      ],
+      "Description": "The movie tells the story of Lanh, a mischievous and reckless young man burdened with debts and constantly chased by loan sharks. During a frantic escape, he encounters Na, a ghost who offers to help him get rich in exchange for finding her child. The film combines comedy and spiritual themes, delivering both entertainment and emotional depth about familial bonds\u200B",
+      "Genre": [
+        "Comedy",
+        "Spiritual",
+        "Family"
+      ],
+      "Imdb": 5,
+      "Poster": "",
+      "Time": "1h 53m",
+      "Title": "Làm Giàu Với Ma",
+      "Trailer": "",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Choi Min-sik",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Kim Go-eun",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Yoo Hae-jin",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Lee Do-hyun",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "The movie follows the chilling story of a wealthy family in Los Angeles plagued by supernatural events. To resolve the crisis, they summon young shamans Hwa Rim and Bong Gil, who discover a cursed grave connected to the family’s ancestor. ",
+      "Genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "Imdb": 5,
+      "Poster": "",
+      "Time": "2h 14m",
+      "Title": "Exhuma",
+      "Trailer": "",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Quang Tuấn",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Nguyên Thảo",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Võ Tấn Phát",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Lan Phương",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "This horror-thriller series is based on the novel of the same name by Thảo Trang. It depicts the cursed Hell Village, where its residents suffer the consequences of their ancestors' sins. Strange spiritual events and mysterious deaths create an atmosphere of fear. The story questions whether the happenings are divine retribution or the result of human conspiracy.\n\n",
+      "Genre": [
+        "Horror",
+        "Supernatural",
+        "Supernatural"
+      ],
+      "Imdb": 9,
+      "Poster": "",
+      "Time": "12 episodes",
+      "Title": "Lunar New Year in Hell Village",
+      "Trailer": "",
+      "Year": 2023
+    }
+  ],
+  "Action": [
+    {
+      "Casts": [
+        {
+          "Actor": "Vin Diesel",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Michelle Rodriguez",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Jason Momoa",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Tyrese Gibson",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "he tenth main installment in the Fast & Furious franchise follows Dominic Toretto as he faces Dante Reyes (played by Jason Momoa), who seeks revenge for his father's death and the loss of his family's fortune. The plot delves into themes of family, loyalty, and high-stakes action, continuing the franchise's blend of heart-pounding stunts and emotional narratives.",
+      "Genre": [
+        "Crime",
+        "Adventure",
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 6,
+      "Poster": "",
+      "Time": "2 hours 22 minutes",
+      "Title": "Fast X",
+      "Trailer": "",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Ed Skrein",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Ray Stevenson",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Loan Chabanol",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Gabriella Wright",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "Frank Martin Jr. becomes involved in a dangerous heist when he is coerced by women seeking revenge on a Russian mobster, leading to an action-packed plot full of double-crosses and betrayals.",
+      "Genre": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 5.2,
+      "Poster": "",
+      "Time": "1h 36m",
+      "Title": " The Transporter Refueled",
+      "Trailer": "",
+      "Year": 2015
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Dave Bautista",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Sofia Boutella",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Terry Crews",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Pom Klementieff",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "When top hitman Joe Flood is diagnosed with a terminal illness, he decides to take matters into his own hands by placing a hit on himself. However, when the hitmen he hired target his ex-girlfriend, Joe must face a wave of assassin colleagues and attempt to win back the love of his life before time runs out.",
+      "Genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "Imdb": 6.1,
+      "Poster": "",
+      "Time": "1h 44m",
+      "Title": "The Killer's Game",
+      "Trailer": "",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Tony Jaa",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Chen Duo-Yi",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Junjia Hong",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Xing Yu",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "The film follows Bai An, a veteran Muay Thai expert, who embarks on a relentless mission for revenge after his wife and daughter are brutally murdered by mysterious forces. The action-packed story features intense fight sequences, including Tony Jaa's signature Muay Thai combat. The narrative evolves as Bai An kidnaps a young heiress but later teams up with her to search for her missing father, leading to an unexpected partnership as they face off against dangerous adversaries.",
+      "Genre": [
+        "Action",
+        "Crime",
+        "Revenge"
+      ],
+      "Imdb": 9,
+      "Poster": "",
+      "Time": "1h 46m",
+      "Title": "Striking Rescue",
+      "Trailer": "",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Keanu Reeves",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Michael Nyqvist",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Alfie Allen",
+          "PicUrl": ""
+        },
+        {
+          "Actor": "Adrianne Palicki",
+          "PicUrl": ""
+        }
+      ],
+      "Description": "John Wick follows a retired hitman, John Wick (Keanu Reeves), who seeks vengeance after his beloved wife dies and leaves him a puppy to help him cope. When Russian gangsters break into his home, steal his car, and kill the puppy, Wick is forced to return to his violent past and take down the mob. The film features intense action, intricate world-building in a criminal underworld, and Wick’s relentless pursuit of those who wronged him.",
+      "Genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "Imdb": 7.4,
+      "Poster": "",
+      "Time": "1h 41m",
+      "Title": "John Wick",
+      "Trailer": "",
+      "Year": 2023
+    }
+  ]
+}
