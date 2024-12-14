@@ -1773,19 +1773,19 @@
       "Casts": [
         {
           "Actor": "Mayumi Tanaka",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Mayumi%20Tanaka.jpg"
         },
         {
           "Actor": "Kazuya Nakai",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Kazuya%20Nakai.jpg"
         },
         {
           "Actor": "Akemi Okamura",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Akemi%20Okamura.jpg"
         },
         {
           "Actor": "Shūichi Ikeda",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Sh%C5%ABichi%20Ikeda.jpg"
         }
       ],
       "Description": "The Straw Hat crew attends a concert by Uta, the world’s favorite diva and daughter of Shanks, leading to a clash of secrets and revelations.",
@@ -1795,53 +1795,53 @@
         "Fantasy"
       ],
       "Imdb": 7.3,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/one%20piece%20poster.jpg",
       "Time": "1h 55m",
       "Title": "One Piece",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/One%20piece.mp4",
       "Year": 2022
     },
     {
       "Casts": [
         {
-          "Actor": "Natsuki Hanae",
-          "PicUrl": ""
+          "Actor": "Makoto Furukawa",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Makoto%20Furukawa.jpg"
         },
         {
-          "Actor": "Akari Kitō",
-          "PicUrl": ""
+          "Actor": "Kaito Ishikawa",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Kaito%20Ishikawa.jpg"
         },
         {
-          "Actor": "Hiro Shimono",
-          "PicUrl": ""
+          "Actor": "Yuichi Nakamura",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yuichi%20Nakamura.jpg"
         }
       ],
-      "Description": "The epic confrontation with Muzan unfolds in the Infinity Castle",
+      "Description": " It tells the story of Saitama, an independent superhero who, because he can defeat any opponent with a single punch due to having trained himself to his peak condition, grows bored from a lack of challenge, setting out to find powerful opponents, while making allies of other heroes as well. ",
       "Genre": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "Comedy",
+        "Superhero",
+        "Action"
       ],
-      "Imdb": 10,
-      "Poster": "",
-      "Time": "2h",
-      "Title": "Demon Slayer: Infinity Castle",
-      "Trailer": "",
-      "Year": 2025
+      "Imdb": 8.7,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/one%20punch%20man%20poster.jpg",
+      "Time": "16 chapter",
+      "Title": "One Punch Man",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/One%20puchman.mp4",
+      "Year": 2015
     },
     {
       "Casts": [
         {
           "Actor": "Takuya Eguchi",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Takuya%20Eguchi.jpg"
         },
         {
           "Actor": "Atsumi Tanezaki",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Atsumi%20Tanezaki.jpg"
         },
         {
           "Actor": "Saori Hayami",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Saori%20Hayami.jpg"
         }
       ],
       "Description": "Loid takes on a new mission that involves balancing espionage and family antics",
@@ -1851,25 +1851,25 @@
         "Animation"
       ],
       "Imdb": 7.8,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/spy%20x%20family%20poster.jpg",
       "Time": "2h",
       "Title": "Spy x Family: Code White.",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Spy%20x%20family.mp4",
       "Year": 2023
     },
     {
       "Casts": [
         {
           "Actor": "Yuki Kaji",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yuki%20Kaji.jpg"
         },
         {
           "Actor": "Yui Ishikawa",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yui%20Ishikawa.jpg"
         },
         {
           "Actor": "Marina Inoue",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Marina%20Inoue.jpg"
         }
       ],
       "Description": "Humanity’s final stand against the Titans reaches an explosive conclusion.",
@@ -1879,29 +1879,29 @@
         "Fantasy"
       ],
       "Imdb": 9.1,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/attack%20on%20titan%20poster%20.jpg",
       "Time": "2h",
-      "Title": "",
-      "Trailer": "Attack on Titan: The Final Season",
+      "Title": "Attack on Titan: The Final Season",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Attack%20on%20titan.mp4",
       "Year": 2023
     },
     {
       "Casts": [
         {
           "Actor": "Megumi Ogata",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Megumi%20Ogata.jpg"
         },
         {
           "Actor": "Kana Hanazawa",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Kana%20Hanazawa.jpg"
         },
         {
           "Actor": "Mikako Komatsu",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Mikako%20Komatsu.jpg"
         },
         {
           "Actor": "Yuichi Nakamura",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yuichi%20Nakamura.jpg"
         }
       ],
       "Description": "The film is a prequel to the Jujutsu Kaisen anime series and follows Yuta Okkotsu, a young sorcerer burdened by a curse from his childhood friend, Rika. After a tragic event, Rika's curse is bound to Yuta, leading him to struggle with both the curse and his emotions. As Yuta trains at Jujutsu High, he faces powerful curses, including the rogue sorcerer Suguru Geto, who seeks to harness Rika's power for his own agenda.",
@@ -1911,29 +1911,29 @@
         "Supernatural"
       ],
       "Imdb": 8.3,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/jujutsu%20kaisen%20poster.jpg",
       "Time": "1h 45m",
       "Title": "Jujutsu Kaisen",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Jujutsu%20kaisen.mp4",
       "Year": 2021
     },
     {
       "Casts": [
         {
           "Actor": "Natsuki Hanae",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Natsuki%20Hanae.jpg"
         },
         {
           "Actor": "Hiro Shimono",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Hiro%20Shimono.jpg"
         },
         {
           "Actor": "Yoshitsugu Matsuoka",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yoshitsugu%20Matsuoka.jpg"
         },
         {
           "Actor": "Akari Kitō",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Akari%20Kit%C5%8D.jpg"
         }
       ],
       "Description": "The film continues the story of the Demon Slayer Corps as the leader Kagaya Ubuyashiki lies on his deathbed. As tensions rise and Muzan's arrival nears, special training is introduced to prepare the Corps for the upcoming battle. The marks on certain Hashiras, including Muichiro and Mitsuri, play a pivotal role in this training. The movie delves into these events, with various Hashiras undertaking crucial missions",
@@ -1943,31 +1943,31 @@
         "Fantasy"
       ],
       "Imdb": 8,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/demon%20slayer%20poster.jpg",
       "Time": "1h 56m",
       "Title": "Demon Slayer: Kimetsu no Yaiba",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Demon%20slayer.mp4",
       "Year": 2024
     }
   ],
-  "horror": [
+  "Horror": [
     {
       "Casts": [
         {
           "Actor": "Hoàng Hà",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ho%C3%A0ng%20H%C3%A0.jpg"
         },
         {
           "Actor": "Võ Điền Gia Huy",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/V%C3%B5%20%C4%90i%E1%BB%81n%20Gia%20Huy.jpg"
         },
         {
           "Actor": "Huỳnh Thanh Trực",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Hu%E1%BB%B3nh%20Thanh%20Tr%E1%BB%B1c.jpg"
         },
         {
           "Actor": "NSND Ngọc Thư",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/NSND%20Ng%E1%BB%8Dc%20Th%C6%B0.jpg"
         }
       ],
       "Description": "Set in a remote and eerie village, the story revolves around mysterious deaths connected to ancient magical rituals. The central character, Thập Nương, uses forbidden techniques to craft a potent liquor, leading to gruesome and supernatural events",
@@ -1976,29 +1976,29 @@
         "Supernatural"
       ],
       "Imdb": 5,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/ke%20an%20hon%20poster.jpg",
       "Time": "1h 45m",
       "Title": "The Soul Reaper",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Ke%20an%20hon.mp4",
       "Year": 2023
     },
     {
       "Casts": [
         {
-        "Actor": "Nadech Kugimiya",
-        "PicUrl": ""
+          "Actor": "Nadech Kugimiya",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Nadech%20Kugimiya.jpg"
         },
         {
-        "Actor": "Denise Jelilcha Kapaun",
-        "PicUrl": ""
+          "Actor": "Denise Jelilcha Kapaun",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Denise%20Jelilcha%20Kapaun.jpg"
         },
         {
-        "Actor": " Mim Rattawadee Wongthong",
-        "PicUrl": ""
+          "Actor": "Mim Rattawadee Wongthong",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Mim%20Rattawadee%20Wongthong.jpg"
         },
         {
-        "Actor": "Junior Kajbhunditt Jaidee",
-        "PicUrl": ""
+          "Actor": "Junior Kajbhunditt Jaidee",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Junior%20Kajbhunditt%20Jaidee.jpg"
         }
       ],
       "Description": "After the elder brother returns to his hometown, he must find a way to save his younger sister from a bizarre illness that is causing her to behave differently.",
@@ -2007,30 +2007,30 @@
         "Thriller"
       ],
       "Imdb": 5.8,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/quy%20an%20tang%20poster.jpg",
       "Time": "2h",
       "Title": "Tee Yod",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Quy%20an%20tang.mp4",
       "Year": 2023
     },
     {
       "Casts": [
-      {
-      "Actor": "Tuấn Trần",
-      "PicUrl": ""
-      },
-      {
-      "Actor": "Diệp Bảo Ngọc",
-      "PicUrl": ""
-      },
-      {
-      "Actor": "NSƯT Hoài Linh",
-      "PicUrl": ""
-      },
-      {
-      "Actor": "NSƯT Hữu Châu",
-      "PicUrl": ""
-      }
+        {
+          "Actor": "Tuấn Trần",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tu%E1%BA%A5n%20Tr%E1%BA%A7n.jpg"
+        },
+        {
+          "Actor": "Diệp Bảo Ngọc",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Di%E1%BB%87p%20B%E1%BA%A3o%20Ng%E1%BB%8Dc.jpg"
+        },
+        {
+          "Actor": "NSƯT Hoài Linh",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/NS%C6%AFT%20Ho%C3%A0i%20Linh.jpg"
+        },
+        {
+          "Actor": "NSƯT Hữu Châu",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/NS%C6%AFT%20H%E1%BB%AFu%20Ch%C3%A2u.jpg"
+        }
       ],
       "Description": "The movie tells the story of Lanh, a mischievous and reckless young man burdened with debts and constantly chased by loan sharks. During a frantic escape, he encounters Na, a ghost who offers to help him get rich in exchange for finding her child. The film combines comedy and spiritual themes, delivering both entertainment and emotional depth about familial bonds\u200B",
       "Genre": [
@@ -2039,29 +2039,29 @@
         "Family"
       ],
       "Imdb": 5,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/lam%20giau%20voi%20ma%20poster.jpg",
       "Time": "1h 53m",
       "Title": "Làm Giàu Với Ma",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Lam%20giau%20voi%20ma.mp4",
       "Year": 2024
     },
     {
       "Casts": [
         {
           "Actor": "Choi Min-sik",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Choi%20Min-sik.jpg"
         },
         {
           "Actor": "Kim Go-eun",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Kim%20Go-eun.jpg"
         },
         {
           "Actor": "Yoo Hae-jin",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Yoo%20Hae-jin.jpg"
         },
         {
           "Actor": "Lee Do-hyun",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Lee%20Do-hyun.jpg"
         }
       ],
       "Description": "The movie follows the chilling story of a wealthy family in Los Angeles plagued by supernatural events. To resolve the crisis, they summon young shamans Hwa Rim and Bong Gil, who discover a cursed grave connected to the family’s ancestor. ",
@@ -2071,10 +2071,10 @@
         "Thriller"
       ],
       "Imdb": 5,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/exhuma%20poster.jpg",
       "Time": "2h 14m",
       "Title": "Exhuma",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Quat%20mo%20trung%20ma.mp4",
       "Year": 2024
     },
     {
@@ -2115,19 +2115,19 @@
       "Casts": [
         {
           "Actor": "Vin Diesel",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Vin%20Diesel.jpg"
         },
         {
           "Actor": "Michelle Rodriguez",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Michelle%20Rodriguez.jpg"
         },
         {
           "Actor": "Jason Momoa",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Jason%20Momoa.jpg"
         },
         {
           "Actor": "Tyrese Gibson",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tyrese%20Gibson.jpg"
         }
       ],
       "Description": "he tenth main installment in the Fast & Furious franchise follows Dominic Toretto as he faces Dante Reyes (played by Jason Momoa), who seeks revenge for his father's death and the loss of his family's fortune. The plot delves into themes of family, loyalty, and high-stakes action, continuing the franchise's blend of heart-pounding stunts and emotional narratives.",
@@ -2138,29 +2138,29 @@
         "Thriller"
       ],
       "Imdb": 6,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/fast%20x%20poster.jpg",
       "Time": "2 hours 22 minutes",
       "Title": "Fast X",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Fast%20X.mp4",
       "Year": 2023
     },
     {
       "Casts": [
         {
           "Actor": "Ed Skrein",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ed%20Skrein.jpg"
         },
         {
           "Actor": "Ray Stevenson",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ray%20Stevenson.jpg"
         },
         {
           "Actor": "Loan Chabanol",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Loan%20Chabanol.jpg"
         },
         {
           "Actor": "Gabriella Wright",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Gabriella%20Wright.jpg"
         }
       ],
       "Description": "Frank Martin Jr. becomes involved in a dangerous heist when he is coerced by women seeking revenge on a Russian mobster, leading to an action-packed plot full of double-crosses and betrayals.",
@@ -2170,29 +2170,29 @@
         "Thriller"
       ],
       "Imdb": 5.2,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/transporter%20poster.jpg",
       "Time": "1h 36m",
       "Title": " The Transporter Refueled",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/The%20transporter.mp4",
       "Year": 2015
     },
     {
       "Casts": [
         {
           "Actor": "Dave Bautista",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Dave%20Bautista.jpg"
         },
         {
           "Actor": "Sofia Boutella",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Sofia%20Boutella.jpg"
         },
         {
-          "Actor": "Terry Crews",
-          "PicUrl": ""
+            "Actor": "Terry Crews",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Terry%20Crews.jpg"
         },
         {
           "Actor": "Pom Klementieff",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Pom%20Klementieff.jpg"
         }
       ],
       "Description": "When top hitman Joe Flood is diagnosed with a terminal illness, he decides to take matters into his own hands by placing a hit on himself. However, when the hitmen he hired target his ex-girlfriend, Joe must face a wave of assassin colleagues and attempt to win back the love of his life before time runs out.",
@@ -2202,29 +2202,29 @@
         "Crime"
       ],
       "Imdb": 6.1,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/the%20killer%20poster.jpg",
       "Time": "1h 44m",
       "Title": "The Killer's Game",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/The%20killer.mp4",
       "Year": 2024
     },
     {
       "Casts": [
         {
           "Actor": "Tony Jaa",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tony%20Jaa.jpg"
         },
         {
           "Actor": "Chen Duo-Yi",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Chen%20Duo-Yi.jpg"
         },
         {
           "Actor": "Junjia Hong",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Junjia%20Hong.jpg"
         },
         {
           "Actor": "Xing Yu",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Xing%20Yu.jpg"
         }
       ],
       "Description": "The film follows Bai An, a veteran Muay Thai expert, who embarks on a relentless mission for revenge after his wife and daughter are brutally murdered by mysterious forces. The action-packed story features intense fight sequences, including Tony Jaa's signature Muay Thai combat. The narrative evolves as Bai An kidnaps a young heiress but later teams up with her to search for her missing father, leading to an unexpected partnership as they face off against dangerous adversaries.",
@@ -2234,29 +2234,29 @@
         "Revenge"
       ],
       "Imdb": 9,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/Striking%20Rescue%20poster.jpg",
       "Time": "1h 46m",
       "Title": "Striking Rescue",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/STRIKING-RESCUE.mp4",
       "Year": 2024
     },
     {
       "Casts": [
         {
           "Actor": "Keanu Reeves",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Keanu%20Reeves.jpg"
         },
         {
           "Actor": "Michael Nyqvist",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Michael%20Nyqvist.jpg"
         },
         {
           "Actor": "Alfie Allen",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Alfie%20Allen.jpg"
         },
         {
           "Actor": "Adrianne Palicki",
-          "PicUrl": ""
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Adrianne%20Palicki.jpg"
         }
       ],
       "Description": "John Wick follows a retired hitman, John Wick (Keanu Reeves), who seeks vengeance after his beloved wife dies and leaves him a puppy to help him cope. When Russian gangsters break into his home, steal his car, and kill the puppy, Wick is forced to return to his violent past and take down the mob. The film features intense action, intricate world-building in a criminal underworld, and Wick’s relentless pursuit of those who wronged him.",
@@ -2266,11 +2266,167 @@
         "Thriller"
       ],
       "Imdb": 7.4,
-      "Poster": "",
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/john%20wick%20poster.jpg",
       "Time": "1h 41m",
       "Title": "John Wick",
-      "Trailer": "",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/John%20wicK.mp4",
       "Year": 2023
+    }
+  ],
+  "Vietnamese": [
+    {
+      "Casts": [
+        {
+          "Actor": "Trấn Thành",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tr%E1%BA%A5n%20Th%C3%A0nh.jpg"
+        },
+        {
+          "Actor": "Tuấn Trần",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tu%E1%BA%A5n%20Tr%E1%BA%A7n.jpg"
+        },
+        {
+          "Actor": "Ngân Chi",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ng%C3%A2n%20Chi.jpg"
+        },
+        {
+          "Actor": "Lê Giang",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ng%C3%A2n%20Chi.jpg"
+        }
+      ],
+      "Description": "The film is set in a working-class neighborhood in Saigon, following the life of Ba Sang, a single father raising his two children. The story explores familial conflicts, generational differences, and themes of love, forgiveness, and the value of family. B",
+      "Genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "Imdb": 7.4,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/bo%20gia%20poster.jpg",
+      "Time": "2h 8m",
+      "Title": "Bố Già",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Bo%20gia.mp4",
+      "Year": 2021
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Lý Hải",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/L%C3%BD%20H%E1%BA%A3i.jpg"
+        },
+        {
+          "Actor": "Ammy Minh Khuê",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ammy%20Minh%20Khu%C3%AA.jpg"
+        },
+        {
+          "Actor": "Lê Thu",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/L%C3%AA%20Thu.jpg"
+        }
+      ],
+      "Description": "This installment focuses on a poignant and heartfelt story surrounding a family with five siblings and their aging mother. As each sibling takes turns caring for her, the film delves into themes of family values, sacrifice, and understanding.",
+      "Genre": [
+        "Drama",
+        "Family"
+      ],
+      "Imdb": 7,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/lat%20mat%20poster.jpg",
+      "Time": "2h",
+      "Title": "Lật Mặt",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Lat%20mat.mp4",
+      "Year":2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Anh Tú",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Anh%20T%C3%BA.jpg"
+        },
+        {
+          "Actor": "Diệu Nhi",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Di%E1%BB%87u%20Nhi.jpg"
+        },
+        {
+          "Actor": "Quách Ngọc Tuyên",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Qu%C3%A1ch%20Ng%E1%BB%8Dc%20Tuy%C3%AAn.jpg"
+        },
+        {
+          "Actor": "Kiều Minh Tuấn",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ki%E1%BB%81u%20Minh%20Tu%E1%BA%A5n.jpg"
+        }
+      ],
+      "Description": "The film is a heartwarming and humorous exploration of family and youth. It follows Gia Phúc, a young man who faces life challenges and ends up living in a lively boarding house managed by the compassionate bà Lê. Alongside friends, he experiences unforgettable moments of youth and self-discovery while navigating love and aspirations\u200B\n",
+      "Genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "Imdb": 8,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/gap%20lai%20chi%20bau%20poster.jpg",
+      "Time": "1h 50m",
+      "Title": "Gặp Lại Chị Bầu",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Gap%20lai%20chi%20bau.mp4",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Trấn Thành",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Tr%E1%BA%A5n%20Th%C3%A0nh.jpg"
+        },
+        {
+          "Actor": "Uyển Ân",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Uy%E1%BB%83n%20%C3%82n.jpg"
+        },
+        {
+          "Actor": "Khả Như",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Kh%E1%BA%A3%20Nh%C6%B0.jpg"
+        },
+        {
+          "Actor": "Song Luân",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Song%20Lu%C3%A2n.jpg"
+        }
+      ],
+      "Description": "The film explores the struggles and dynamics of a multi-generational Vietnamese family. Bà Ngọc Nữ, a single mother who runs a bánh canh cua shop, tries to protect her daughters from the hardships she faced, especially concerning relationships.",
+      "Genre": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "Imdb": 7,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/nha%20ba%20nu%20poster.jpg",
+      "Time": "2h 7m",
+      "Title": "Nhà Bà Nữ",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Nha%20ba%20%20nu.mp4",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Kiều Minh Tuấn",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ki%E1%BB%81u%20Minh%20Tu%E1%BA%A5n.jpg"
+        },
+        {
+          "Actor": "Thu Trang",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Thu%20Trang.jpg"
+        },
+        {
+          "Actor": "Hứa Vĩ Văn",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/H%E1%BB%A9a%20V%C4%A9%20V%C4%83n.jpg"
+        },
+        {
+          "Actor": "Tiến Luật",
+          "PicUrl": "https://theanh2301.github.io/MovieVideo/image/Ti%E1%BA%BFn%20Lu%E1%BA%ADt.jpg"
+        }
+      ],
+      "Description": "The movie follows Chú Thái, a retired policeman, who opens a small food stall as a cover to monitor a drug lord. Unexpectedly, he recruits a team of quirky individuals, leading to hilarious and action-packed encounters. The film blends comedy, action, and heartfelt moments, emphasizing family bonds and teamwork in a Vietnamese cultural context",
+      "Genre": [
+        "Comedy",
+        "Action",
+        "Drama"
+      ],
+      "Imdb": 7,
+      "Poster": "https://theanh2301.github.io/MovieVideo/image/nghe%20sieu%20de%20poster.jpg",
+      "Time": "2h",
+      "Title": "Nghề Siêu Dễ",
+      "Trailer": "https://theanh2301.github.io/MovieVideo/Nghe%20sieu%20de.mp4",
+      "Year": 2022
     }
   ]
 }
